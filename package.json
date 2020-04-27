@@ -7,7 +7,8 @@
     "react-dom": "^16.13.1",
     "react-redux": "^5.1.2",
     "react-scripts": "1.0.13",
-    "redux": "^3.7.2"
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,5 +17,3 @@
     "eject": "react-scripts eject"
   }
 }
-
-
