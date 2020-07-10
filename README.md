@@ -1,4 +1,4 @@
-# advance-redux-React
+# advance-redux-React Udemy
 
 I created a advance-redux app. I'm going to use React, redux, html5, css3 .
 
